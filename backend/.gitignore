@@ -1,9 +1,0 @@
-node_modules
-database.sqlite
-
-uploads/**
-!uploads/.gitkeep
-
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
