@@ -60,7 +60,15 @@ $ yarn dev or npm dev
 
 ### 🖥️ Rodando o Front End (web)
 
-Obs.: Before to continue, be sure to have the API running
+```bash
+# Caso tenha uma conta no MapBox, crie um arquivo .env na raiz do projeto web com a seguinte variável:
+$ REACT_APP_MAPBOX_TOKEN = <mapbox-token>
+
+# Caso contrário, atualize as referências de mapa nos arquivos que mencionam a variável de ambiente REACT_APP_MAPBOX_TOKEN
+```
+
+
+Obs.: Certifique-se de que a API está rodando
 
 ```bash
 # Certifique-se que o arquivo 'src/services/api.ts' possui o mesmo IP de sua API
@@ -78,7 +86,7 @@ $ yarn start or npm start
 
 ### 📱 Rodando o Front End (mobile)
 
-Obs.: Before to continue, be sure to have the API running
+Obs.: Certifique-se de que a API está rodando
 
 ```bash
 # Certifique-se que o arquivo 'src/services/api.ts' possui o mesmo IP de sua API
