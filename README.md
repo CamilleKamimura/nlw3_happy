@@ -103,4 +103,4 @@ $ yarn start or npm start
 ```
 
 ## 🔐 Licença
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/CamilleKamimura/nlw3_happy/blob/feature/Atualiza_README/LICENSE.md "LICENSE.md") para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE.md "LICENSE.md") para mais detalhes.
