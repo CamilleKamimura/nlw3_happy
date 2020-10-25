@@ -2,22 +2,13 @@
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/logo.svg" />
 </h1>
 
-<p align="center">
- <a href="#sobre">Sobre</a> •
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#pré-requisitos">Pré-requisitos</a> • 
-  <a href="#getting-started">Getting Started</a> • 
- <a href="#licenc-a">Licença</a> •
-</p>
-
-
-### Sobre 🚀
+## 🚀 Sobre
 
 O Happy é um projeto que visa facilitar visitas aos orfanatos próximos a você 💜
 
 Este é um projeto desenvolvido durante a Next Level Week, realizada pela @Rocketseat durante os dias 12 a 18 de Outubro de 2020.
 
-### Tecnologias ⚒️
+## ⚒️ Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -27,17 +18,16 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 
-### Pré-requisitos ⚠️
+## ⚠️ Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
+## 🎬 Getting Started
 
-### Getting Started 🎬
-
-#### Rodando o Back End (servidor) ⚙️
+### ⚙️ Rodando o Back End (servidor)
 
 ```bash
 # Clone este repositório
@@ -60,7 +50,7 @@ $ yarn dev or npm dev
 
 ```
 
-#### Rodando o Front End (web) 🖥️
+### 🖥️ Rodando o Front End (web)
 
 Obs.: Before to continue, be sure to have the API running
 
@@ -78,7 +68,7 @@ $ yarn start or npm start
 
 ```
 
-#### Rodando o Front End (mobile) 📱
+### 📱 Rodando o Front End (mobile)
 
 Obs.: Before to continue, be sure to have the API running
 
@@ -96,5 +86,5 @@ $ yarn start or npm start
 
 ```
 
-### Licença 🔐
+## 🔐 Licença
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/CamilleKamimura/nlw3_happy/blob/feature/Atualiza_README/LICENSE.md "LICENSE.md") para mais detalhes.
