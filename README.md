@@ -2,6 +2,14 @@
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/logo.svg" />
 </h1>
 
+<p align="center">
+ <a href="#-sobre">Sobre</a> •
+ <a href="#%EF%B8%8F-tecnologias">Tecnologias</a> • 
+ <a href="#%EF%B8%8F-pré-requisitos">Pré-requisitos</a> •
+ <a href="#-getting-started">Getting Started</a> •
+ <a href="#-licença">Licença</a>
+</p>
+
 ## 🚀 Sobre
 
 O Happy é um projeto que visa facilitar visitas aos orfanatos próximos a você 💜
